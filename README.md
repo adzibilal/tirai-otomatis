@@ -4,7 +4,7 @@
 
 **Smart Curtain Control System with Light Sensor & IoT Integration**
 
-[🎥 Demo Video](https://youtube.com/watch?v=your-video-id) • [🔗 Live Simulation](https://wokwi.com/projects/your-project-id) • [📱 Blynk App](#blynk-setup)
+[🎥 Demo Video](https://youtube.com/watch?v=your-video-id) • [🔗 Live Simulation](https://wokwi.com/projects/435815194823336961) 
 
 </div>
 
